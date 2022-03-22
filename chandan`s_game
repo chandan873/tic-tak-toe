@@ -1,7 +1,7 @@
 // useState: tic tac toe
 
 
-import {useLocalStorageState} from '../utils';
+
 
 function Board({onClick, squares}) {
 
