@@ -1,6 +1,6 @@
 // useState: tic tac toe
 
-import * as React from 'react'
+
 import {useLocalStorageState} from '../utils';
 
 function Board({onClick, squares}) {
